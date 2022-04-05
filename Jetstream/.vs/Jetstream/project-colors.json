@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "de05c340-06d9-4e0a-b12d-feedf13a0bac": {
+      "ProjectGuid": "de05c340-06d9-4e0a-b12d-feedf13a0bac",
+      "DisplayName": "Jetstream",
+      "ColorIndex": 0
+    },
+    "c2d7da03-760e-4b90-86cc-61cd3dacadb0": {
+      "ProjectGuid": "c2d7da03-760e-4b90-86cc-61cd3dacadb0",
+      "DisplayName": "JetStreamTests",
+      "ColorIndex": 1
+    },
+    "d2d731d0-900d-4d82-b166-9c3ffdffdd83": {
+      "ProjectGuid": "d2d731d0-900d-4d82-b166-9c3ffdffdd83",
+      "DisplayName": "JetStreamTests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

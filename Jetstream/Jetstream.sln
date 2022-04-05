@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jetstream", "Jetstream.csproj", "{DE05C340-06D9-4E0A-B12D-FEEDF13A0BAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetStreamTests", "..\JetStreamTests\JetStreamTests.csproj", "{D2D731D0-900D-4D82-B166-9C3FFDFFDD83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE05C340-06D9-4E0A-B12D-FEEDF13A0BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE05C340-06D9-4E0A-B12D-FEEDF13A0BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE05C340-06D9-4E0A-B12D-FEEDF13A0BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE05C340-06D9-4E0A-B12D-FEEDF13A0BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D731D0-900D-4D82-B166-9C3FFDFFDD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D731D0-900D-4D82-B166-9C3FFDFFDD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D731D0-900D-4D82-B166-9C3FFDFFDD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D731D0-900D-4D82-B166-9C3FFDFFDD83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89F3A772-6EA2-45B8-AB1C-83B792336205}
+	EndGlobalSection
+EndGlobal
